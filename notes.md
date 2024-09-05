@@ -1,5 +1,8 @@
-This is the notes file, which contains notes.
+**This file contains notes and dated documentation I'll keep as I progress through the chess project this semester.**
 
-I sure love taking notes!
+5 September
 
-GitHub is intimidating for me, but seeing as CS240 is a challenge I'm willing to take on, GitHub will be my ally rather than my adversary!!
+- created a github repository (repo) named chess and made it public
+- added a license and readme file, as well as this notes file
+- made some changes locally, added the file to git, and pushed it up to the repo on the git server
+- did it again using this documentation from 5 Sep
